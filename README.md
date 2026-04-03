@@ -54,6 +54,3 @@ go run hello.go
 - [Documentação Oficial do Go](https://go.dev/doc/)
 - [A Tour of Go](https://go.dev/tour/)
 
-## 🎯 Objetivo
-
-Este repositório serve como registro de aprendizado e referência para consultas futuras sobre conceitos básicos e intermediários da linguagem Go.
